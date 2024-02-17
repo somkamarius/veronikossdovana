@@ -15,7 +15,7 @@ function App() {
           1000,
           "Staigmena tavęs laukia vasario 24 dieną, 10 val.",
           1000,
-          "Staigmena dovana tavęs laukia vasario XX dieną, XX val.",
+          "Staigmena tavęs laukia vasario XX dieną, XX val.",
           1000,
         ]}
         speed={50}
